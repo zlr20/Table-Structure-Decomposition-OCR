@@ -5,4 +5,4 @@
 
 ![0](test_pics/0.jpg)
 
-![0](/home/zhanglr/MyProj/Table-Structure-Decomposition-OCR/test_pics/0_res.png)
+![1](test_pics/0_res.png)
